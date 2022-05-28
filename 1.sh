@@ -11,3 +11,4 @@ echo "running"
 else
 cp /ata/wallet.conf /hive-config/wallet.conf
 miner restart
+done
